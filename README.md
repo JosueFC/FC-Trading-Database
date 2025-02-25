@@ -11,7 +11,19 @@ The goal is to create a comprehensive, synthetic database for FC Trading, a fict
 Which 10 products generated the highest revenue in Q4 2024?
 <details>
   <summary>Results</summary>
-  
+  | Row | ProductID | Product Name   | Total Revenue  |
+  |-----|-----------|----------------|----------------|
+  | 1   | 10        | Chamomile Tea  | 30,252.60      |
+  | 2   | 44        | Corn           | 27,793.60      |
+  | 3   | 151       | Orange Juice   | 25,899.50      |
+  | 4   | 8         | Bacon          | 25,666.20      |
+  | 5   | 41        | Mustard Greens | 25,311.00      |
+  | 6   | 98        | Truffle Oil    | 25,158.70      |
+  | 7   | 18        | Scallops       | 24,399.23      |
+  | 8   | 73        | Tuna Steak     | 24,030.00      |
+  | 9   | 138       | Coconut Milk   | 23,217.48      |
+  | 10  | 89        | Horseradish    | 23,137.08      |
+
 
 # Question 2
 Which 10 countries generated the highest revenue?
@@ -21,13 +33,13 @@ Revenue in 2024 per product category
 <details>
   <summary>Results</summary>
   | Row | Category     | Total Revenue         |
-|-----|--------------|-----------------------|
-| 1   | Condiments   | 1,135,774.12          |
-| 2   | Beverages    | 1,124,646.53          |
-| 3   | Seafood      | 1,092,799.42          |
-| 4   | Dairy        | 973,502.71            |
-| 5   | Produce      | 939,477.87            |
-| 6   | Meat/Poultry | 899,082.94            |
+  |-----|--------------|-----------------------|
+  | 1   | Condiments   | 1,135,774.12          |
+  | 2   | Beverages    | 1,124,646.53          |
+  | 3   | Seafood      | 1,092,799.42          |
+  | 4   | Dairy        | 973,502.71            |
+  | 5   | Produce      | 939,477.87            |
+  | 6   | Meat/Poultry | 899,082.94            |
 
   
 # Question 4
