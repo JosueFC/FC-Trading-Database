@@ -300,7 +300,7 @@ Which customers had the most frequent orders in the last 3 years?
 
 </details>
 
-# Question 7
+# Question 8
 Which suppliers had the best on-time delivery rate and highest quality score?
 <details>
   <summary>Results</summary>
