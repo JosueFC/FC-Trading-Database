@@ -1,0 +1,163 @@
+ProductID,ProductName,SupplierID,Category,QuantityPerUnit,UnitPrice
+1,Apple Cider Vinegar,82,Condiments,2kg bag,89.28
+2,Custard,112,Dairy,50-count box,80.49
+3,Vegetable Oil,138,Condiments,1-liter bottle,53.25
+4,Soy Sauce,59,Condiments,1-liter bottle,11.01
+5,Tuna Steak,201,Seafood,50-count box,20.56
+6,Worcestershire Sauce,124,Condiments,12-pack,40.03
+7,Mozzarella Cheese,27,Dairy,6-pack,18.22
+8,Bacon,98,Meat/Poultry,12-pack,95.06
+9,Cola,247,Beverages,6-pack,87.68
+10,Chamomile Tea,183,Beverages,50-count box,96.04
+11,Beef Ribeye,306,Meat/Poultry,50-count box,97.36
+12,Matcha Latte,236,Beverages,6-pack,50.65
+13,Swordfish,30,Seafood,50-count box,71.32
+14,Feta Cheese,55,Dairy,500ml bottle,34.42
+15,Beef Sirloin,32,Meat/Poultry,1-liter bottle,61.03
+16,Pineapple,70,Produce,2kg bag,71.19
+17,Ice Cream,201,Dairy,50-count box,28.2
+18,Scallops,78,Seafood,500ml bottle,86.83
+19,Bison,121,Meat/Poultry,2kg bag,64.38
+20,Lamb Shank,135,Meat/Poultry,50-count box,24.87
+21,Apple Juice,291,Beverages,50-count box,14.87
+22,Chard,156,Produce,12-pack,85.34
+23,Pancetta,311,Meat/Poultry,6-pack,56.09
+24,Tomato Juice,31,Beverages,12-pack,54.71
+25,Pineapple Juice,308,Beverages,6-pack,82.47
+26,Cashew Milk,260,Dairy,6-pack,53.63
+27,Sunflower Oil,166,Condiments,50-count box,13.86
+28,Pastrami,273,Meat/Poultry,500ml bottle,76.93
+29,Rainbow Trout,264,Seafood,2kg bag,62.21
+30,Chicken Tenderloins,197,Meat/Poultry,12-pack,22.08
+31,Duck Legs,153,Meat/Poultry,2kg bag,84.1
+32,Peppermint Tea,310,Beverages,6-pack,15.0
+33,Frozen Yogurt,122,Dairy,2kg bag,65.9
+34,Mahi Mahi,32,Seafood,24-count case,59.47
+35,Cranberry Juice,30,Beverages,24-count case,24.36
+36,Rabbit,317,Meat/Poultry,24-count case,49.59
+37,Vinegar,59,Condiments,500ml bottle,6.0
+38,Clarified Butter (Ghee),189,Dairy,6-pack,27.57
+39,Bison,135,Meat/Poultry,24-count case,63.46
+40,Frozen Yogurt,116,Dairy,500ml bottle,38.51
+41,Mustard Greens,293,Produce,6-pack,92.04
+42,Pineapple Juice,304,Beverages,2kg bag,59.02
+43,Root Beer,302,Beverages,2kg bag,54.91
+44,Corn,3,Produce,1-liter bottle,95.84
+45,Lamb Rack,273,Meat/Poultry,24-count case,55.52
+46,Caesar Dressing,285,Condiments,2kg bag,52.49
+47,Vegetable Oil,120,Condiments,500ml bottle,18.01
+48,Cottage Cheese,227,Dairy,500ml bottle,8.69
+49,Olive Oil,218,Condiments,1-liter bottle,75.87
+50,Soy Yogurt,256,Dairy,1-liter bottle,57.77
+51,Duck Legs,63,Meat/Poultry,50-count box,31.42
+52,Swiss Cheese,312,Dairy,2kg bag,76.33
+53,Salmon Fillet,280,Seafood,1-liter bottle,79.93
+54,Ground Chicken,331,Meat/Poultry,500ml bottle,36.42
+55,Carrots,30,Produce,24-count case,63.54
+56,Arugula,84,Produce,24-count case,58.51
+57,Honey,37,Condiments,6-pack,83.85
+58,Provolone,288,Dairy,1-liter bottle,85.68
+59,Pineapple,177,Produce,6-pack,7.86
+60,Trout,22,Seafood,500ml bottle,59.25
+61,Mozzarella Cheese,40,Dairy,2kg bag,79.71
+62,Snapper,335,Seafood,6-pack,74.25
+63,Mineral Water,229,Beverages,1-liter bottle,65.23
+64,Tabasco Sauce,153,Condiments,50-count box,19.51
+65,Horseradish,163,Condiments,50-count box,84.09
+66,Feta Cheese,183,Dairy,6-pack,42.12
+67,Fennel,333,Produce,1-liter bottle,81.9
+68,Papaya,128,Produce,1-liter bottle,50.55
+69,Mayonnaise,276,Condiments,50-count box,26.04
+70,Flounder,163,Seafood,24-count case,34.07
+71,Fish Roe,149,Seafood,500ml bottle,10.0
+72,Mushrooms,63,Produce,6-pack,43.47
+73,Tuna Steak,217,Seafood,12-pack,80.1
+74,Algae,146,Produce,500ml bottle,44.76
+75,Mutton,86,Meat/Poultry,6-pack,54.77
+76,Avocados,257,Produce,12-pack,75.35
+77,Fruit Punch,174,Beverages,500ml bottle,18.67
+78,Swiss Cheese,178,Dairy,500ml bottle,17.59
+79,Cod Fish,55,Seafood,24-count case,7.92
+80,Trout,322,Seafood,2kg bag,21.18
+81,Goat Cheese,79,Dairy,1-liter bottle,90.8
+82,Bell Peppers,17,Produce,1-liter bottle,77.32
+83,Ricotta Cheese,247,Dairy,500ml bottle,16.22
+84,Feta Cheese,81,Dairy,6-pack,29.02
+85,Almond Milk,266,Beverages,6-pack,75.31
+86,Swiss Cheese,89,Dairy,50-count box,96.72
+87,Maple Syrup,14,Condiments,6-pack,36.84
+88,Horseradish,43,Condiments,24-count case,23.82
+89,Horseradish,203,Condiments,24-count case,76.36
+90,Chicken Drumsticks,92,Meat/Poultry,12-pack,66.99
+91,Leeks,3,Produce,24-count case,32.77
+92,Snapper,104,Seafood,50-count box,86.35
+93,Diet Cola,295,Beverages,1-liter bottle,12.62
+94,Pancetta,263,Meat/Poultry,12-pack,16.5
+95,Lemonade,76,Beverages,500ml bottle,30.34
+96,Mussels,54,Seafood,500ml bottle,48.79
+97,Brie,222,Dairy,6-pack,33.34
+98,Truffle Oil,18,Condiments,2kg bag,88.9
+99,Goose,298,Meat/Poultry,2kg bag,62.15
+100,Fruit Punch,209,Beverages,12-pack,46.09
+101,Corned Beef,298,Meat/Poultry,1-liter bottle,33.06
+102,Half and Half,128,Dairy,6-pack,38.49
+103,Lemonade,192,Beverages,6-pack,73.18
+104,Pork Chops,7,Meat/Poultry,24-count case,44.28
+105,Abalone,89,Seafood,50-count box,60.56
+106,Swiss Cheese,93,Dairy,1-liter bottle,41.59
+107,Parmesan Cheese,98,Dairy,50-count box,52.89
+108,Salmon Fillet,56,Seafood,1-liter bottle,50.79
+109,Worcestershire Sauce,138,Condiments,50-count box,23.08
+110,Cherries,56,Produce,6-pack,24.06
+111,Salmon Fillet,307,Seafood,50-count box,23.99
+112,Crayfish,99,Seafood,50-count box,70.97
+113,Tomato Juice,325,Beverages,500ml bottle,67.62
+114,Turkey Sausage,227,Meat/Poultry,50-count box,65.23
+115,Tzatziki,293,Condiments,1-liter bottle,47.78
+116,Fruit Punch,128,Beverages,1-liter bottle,64.81
+117,Ginger Ale,6,Beverages,24-count case,75.68
+118,Crayfish,298,Seafood,1-liter bottle,18.28
+119,Duck Breast,49,Meat/Poultry,2kg bag,7.86
+120,Ketchup,257,Condiments,500ml bottle,83.16
+121,Octopus,290,Seafood,6-pack,37.49
+122,Tomatoes,178,Produce,500ml bottle,28.01
+123,Halibut,217,Seafood,50-count box,52.59
+124,Cantaloupe,163,Produce,12-pack,64.14
+125,Green Tea,265,Beverages,12-pack,60.4
+126,Mango,316,Produce,6-pack,19.13
+127,Diet Cola,145,Beverages,500ml bottle,65.67
+128,Oysters,126,Seafood,1-liter bottle,76.57
+129,Horseradish,51,Condiments,50-count box,78.6
+130,Cherry Cola,89,Beverages,12-pack,15.49
+131,Turkey Breast,42,Meat/Poultry,50-count box,41.84
+132,Kombucha,147,Beverages,50-count box,55.39
+133,Kale,302,Produce,12-pack,66.23
+134,Horseradish,18,Condiments,24-count case,87.8
+135,Mussels,9,Seafood,2kg bag,72.18
+136,Peanut Butter,71,Condiments,24-count case,56.95
+137,Chimichurri,107,Condiments,6-pack,29.16
+138,Coconut Milk,126,Dairy,24-count case,95.94
+139,Balsamic Vinegar,297,Condiments,12-pack,50.74
+140,Beef T-Bone,33,Meat/Poultry,50-count box,11.9
+141,Tangerines,225,Produce,12-pack,44.66
+142,Ketchup,153,Condiments,2kg bag,42.17
+143,Crab Legs,316,Seafood,2kg bag,52.68
+144,Herbal Tea,212,Beverages,50-count box,72.59
+145,Light Cream,230,Dairy,6-pack,35.94
+146,Crab Legs,174,Seafood,1-liter bottle,89.13
+147,Iced Matcha,328,Beverages,12-pack,24.24
+148,Plums,52,Produce,6-pack,36.58
+149,Cheddar Cheese,84,Dairy,12-pack,52.59
+150,Orange Juice,259,Beverages,6-pack,38.79
+151,Orange Juice,313,Beverages,500ml bottle,93.5
+152,Canola Oil,136,Condiments,6-pack,92.58
+153,Chicken Wings,15,Meat/Poultry,50-count box,53.92
+154,Black Tea,23,Beverages,6-pack,50.55
+155,Cantaloupe,314,Produce,24-count case,82.15
+156,Anchovies,44,Seafood,24-count case,50.68
+157,Worcestershire Sauce,248,Condiments,2kg bag,64.87
+158,Peas,30,Produce,12-pack,62.97
+159,Bell Peppers,141,Produce,24-count case,10.76
+160,Olive Oil,108,Condiments,12-pack,71.47
+161,Mussels,290,Seafood,500ml bottle,71.03
+162,Sunflower Oil,91,Condiments,12-pack,88.97
