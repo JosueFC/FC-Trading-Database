@@ -1,9 +1,9 @@
 # FC-Trading-Database
 Creation of a Synthetic Database for Querying and Data Science Applications.
 
-![image](https://github.com/user-attachments/assets/a445c6d2-0898-4ea2-96b1-7132c1d9f0d3)
+The goal of this project is to design and develop a comprehensive synthetic database for FC Trading, a fictional international foods company involved in the import and export of a diverse range of food products. This database will serve as a robust and versatile tool for data science applications, offering a variety of use cases for querying and data analysis.
 
-The goal is to create a comprehensive, synthetic database for FC Trading, a fictional international foods company that imports and exports a variety of food products. This database should serve as a versatile tool for querying, data analysis, and modeling, making it suitable for various data science projects.
+FC Trading operates across multiple countries, dealing with various product categories such as produce, condiments, dairy, meat and seafood.  It has a global supply chain network, including suppliers, shippers, and clients. The synthetic database will model this complexity, incorporating key aspects of international trade, inventory management, customer behavior, and financial transactions.
 
 # Database Schema Overview
 
@@ -178,25 +178,24 @@ Which 10 countries generated the highest revenue?
 <details>
   <summary>Results</summary>
 
-  | Row | Country       | Total Revenue       |
-  |-----|---------------|---------------------|
-  | 6   | France        | 458,021.27          |
-  | 7   | Mexico        | 337,724.13          |
-  | 8   | Spain         | 288,245.14          |
-  | 9   | Italy         | 166,735.65          |
-  | 10  | Panama        | 124,097.56          |
-  | 11  | Netherlands   | 111,139.94          |
-  | 12  | Norway        | 73,926.01           |
-  | 13  | South Korea   | 65,664.81           |
-  | 14  | Austria       | 64,493.53           |
-  | 15  | Australia     | 59,166.35           |
-  | 16  | Sweden        | 55,214.69           |
-  | 17  | Japan         | 41,386.03           |
+|     Country        |   Total Revenue   |
+|--------------------|-------------------|
+| United States      | 1,902,444.05      |
+| Germany            | 720,279.60        |
+| Canada             | 610,176.40        |
+| United Kingdom     | 583,873.48        |
+| Brazil             | 502,694.95        |
+| France             | 458,021.27        |
+| Mexico             | 337,724.13        |
+| Spain              | 288,245.14        |
+| Italy              | 166,735.65        |
+| Panama             | 124,097.56        |
+
 
 </details>
 
 # Question 3
-Revenue in 2024 per product category
+What was the revenue distribution per product category in 2024?
 <details>
   <summary>Results</summary>
 
