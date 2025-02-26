@@ -194,6 +194,7 @@ Which 10 countries generated the highest revenue?
   | 17  | Japan         | 41,386.03           |
 
 </details>
+
 # Question 3
 Revenue in 2024 per product category
 <details>
@@ -231,7 +232,95 @@ Which countries had the highest revenue growth in 2024?
 </details>
 
 # Question 5
-What was the average revenue growth from 2015 to 2024?
+What was the average yearly revenue growth from 2015 to 2024?
+<details>
+  <summary>Response</summary>
+
+  | Row | Country         | AvgRevenueGrowth |
+  |-----|-----------------|------------------|
+  | 1   | South Korea     | 4.5220           |
+  | 2   | Australia       | 3.4014           |
+  | 3   | Mexico          | 3.0057           |
+  | 4   | Panama          | 2.7007           |
+  | 5   | Sweden          | 2.6784           |
+  | 6   | Norway          | 2.6068           |
+  | 7   | Japan           | 2.4399           |
+  | 8   | United States   | 2.3088           |
+  | 9   | Germany         | 2.1172           |
+  | 10  | United Kingdom  | 2.0027           |
+  | 11  | Canada          | 1.9586           |
+  | 12  | Brazil          | 1.9216           |
+  | 13  | France          | 1.8808           |
+  | 14  | Austria         | 1.2341           |
+  | 15  | Spain           | 1.1753           |
+  | 16  | Netherlands     | 0.4581           |
+  | 17  | Italy           | 0.3422           |
+
+</details>
 
 # Question 6
 What were the top 10 customers in 2024
+<details>
+  <summary>Results</summary>
+
+  | Row | CustomerID | CompanyName               | Total Revenue  |
+  |-----|------------|---------------------------|----------------|
+  | 1   | 2895       | Stewart Group             | 6380.22        |
+  | 2   | 6029       | Hendricks-Elliott         | 6307.63        |
+  | 3   | 6077       | Stone, Riggs and Johnson  | 6032.47        |
+  | 4   | 5281       | Waters PLC                | 6010.75        |
+  | 5   | 2056       | Davis-Ortiz               | 5579.28        |
+  | 6   | 2436       | Torres-Brooks             | 5341.84        |
+  | 7   | 4765       | Watson, West and Cook     | 5263.56        |
+  | 8   | 2552       | Anderson PLC              | 5197.69        |
+  | 9   | 1974       | Baird-Williams            | 5176.38        |
+  | 10  | 4378       | Anderson PLC              | 5092.48        |
+
+</details>
+
+# Question 7
+Which customers had the most frequent orders in the last 3 years?
+<details>
+  <summary>Results</summary>
+
+| CustomerID | Company Name                      | Total Orders |
+|------------|-----------------------------------|--------------|
+| 7761       | Watson and Sons                   | 17           |
+| 6459       | Webb-Ortega                       | 17           |
+| 6007       | Bennett, Chavez and Anderson      | 17           |
+| 2992       | Maxwell, Rice and Watson          | 17           |
+| 2763       | Booth, Rodriguez and Armstrong    | 17           |
+| 156        | Hill Inc                          | 17           |
+| 3239       | White Inc                         | 17           |
+| 4938       | Rojas Ltd                         | 17           |
+| 3668       | Davis and Sons                    | 16           |
+| 637        | Wilcox-Robertson                  | 16           |
+| 2346       | Park, Maynard and Ruiz            | 16           |
+| 6352       | Hampton-Wilson                    | 16           |
+| 102        | Patterson, Smith and Jones        | 16           |
+
+</details>
+
+# Question 7
+Which suppliers had the best on-time delivery rate and highest quality score?
+<details>
+  <summary>Results</summary>
+  ## Supplier Performance Data
+
+| SupplierID | Company Name                      | OnTimeDeliveryRate | QualityScore | AverageLeadTime | LastEvaluatedDate |
+|------------|-----------------------------------|--------------------|--------------|-----------------|-------------------|
+| 290        | Sanchez Ltd                       | 99.55              | 4.19         | 24              | 2024-03-28        |
+| 250        | Ford LLC                          | 99.53              | 4.8          | 14              | 2024-03-05        |
+| 13         | Norman, Cordova and Fry           | 99.45              | 3.12         | 14              | 2024-12-28        |
+| 35         | Bell-Nichols                      | 99.43              | 4.91         | 5               | 2024-11-29        |
+| 63         | Olsen, Jackson and White          | 99.27              | 3.7          | 10              | 2024-11-30        |
+| 316        | Fernandez, Garcia and Gomez       | 99.25              | 3.15         | 18              | 2024-04-15        |
+| 308        | Taylor-Pearson                    | 99.07              | 4.09         | 22              | 2024-07-05        |
+| 208        | Gibson-Armstrong                  | 98.89              | 4.23         | 5               | 2025-01-16        |
+| 5          | Pierce-Jackson                    | 98.82              | 3.03         | 14              | 2024-06-13        |
+| 216        | Hall Ltd                          | 98.79              | 4.24         | 14              | 2024-05-12        |
+| 107        | Hodge-Fuller                      | 98.69              | 3.37         | 28              | 2024-05-11        |
+| 191        | Hansen-Sims                       | 98.62              | 3.37         | 12              | 2024-05-10        |
+| 196        | Fletcher-Kane                     | 98.6               | 3.84         | 28              | 2024-09-15        |
+
+</details>
