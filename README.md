@@ -258,7 +258,7 @@ What was the average yearly revenue growth from 2015 to 2024?
 </details>
 
 # Question 6
-What were the top 10 customers in 2024
+Who were the top 10 customers in 2024
 <details>
   <summary>Results</summary>
 
